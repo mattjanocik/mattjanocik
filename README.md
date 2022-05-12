@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://github.com/mattjanocik">Programmer</a>, <a href="https://www.linkedin.com/in/matthew-janocik/">Cybersecurity Student</a>
+<h1>Hi, I'm Matt! <br/><a href="https://github.com/mattjanocik">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/matthew-janocik/">Cybersecurity Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
