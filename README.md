@@ -10,4 +10,4 @@
 
 [<img align="left" alt="MattJanocik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/matthew-janocik
+[linkedin]: www.linkedin.com/in/matt-janocik
